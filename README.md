@@ -20,9 +20,9 @@ Instruction Manual:
 7. If you want to interrupt the order, press 'VOID' and start again.
 
 Database tables(implemented by MySql):
--- Products
--- Shift
--- Payment_method
--- Transactions
--- Deals
--- Pays
+- Products
+- Shift
+- Payment_method
+- Transactions
+- Deals
+- Pays
